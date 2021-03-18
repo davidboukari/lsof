@@ -1,7 +1,7 @@
 # lsof
 
-lsof -p `pidof filebeat`
 ```
+lsof -p `pidof filebeat`
 COMMAND    PID USER   FD      TYPE             DEVICE  SIZE/OFF    NODE NAME
 filebeat 27751 root  cwd       DIR              253,0       224      64 /
 filebeat 27751 root  rtd       DIR              253,0       224      64 /
