@@ -1,5 +1,5 @@
 # lsof
-
+* https://unix.stackexchange.com/questions/28464/lsof-age-of-file
 ```
 lsof -p `pidof filebeat`
 COMMAND    PID USER   FD      TYPE             DEVICE  SIZE/OFF    NODE NAME
